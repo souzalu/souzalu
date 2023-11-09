@@ -20,7 +20,7 @@
 
 ## Ferramentas e Tecnologias
 
-         ![logo git](https://raw.githubusercontent.com/souzalu/souzalu/97b24471578f486dd2f0343f118d7f8ddf8385c4/sql.png?token=GHSAT0AAAAAACKB3AUK5KTTB27FT74SMSVUZKME4RQ)
+         ![logo git](https://raw.githubusercontent.com/souzalu/souzalu/main/sql.png)
 
 
 
