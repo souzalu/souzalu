@@ -15,12 +15,14 @@
 
 ## Contato
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/luciane-souza-24abbb14b/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luciane-souza-24abbb14b/)
 - 📧 [E-mail](lucianesouzalu1@gmail.com)
 
 ## Ferramentas e Tecnologias
 
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+            ![testando](https://github.com/souzalu/souzalu/blob/main/AppsFlyer.svg)
+
 
           
 
