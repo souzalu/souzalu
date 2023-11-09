@@ -20,7 +20,8 @@
 
 ## Ferramentas e Tecnologias
 
-          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
+         ![Texto Alternativo](https://github.com/souzalu/souzalu/blob/97b24471578f486dd2f0343f118d7f8ddf8385c4/sql.png)
+
 
 
 
