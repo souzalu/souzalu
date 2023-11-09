@@ -4,7 +4,7 @@
 - Formada em Análise e Desenvolvimento de Sistemas.
 - Tenho conhecimento em SQL, Data Studio, Power BI, planilhas do Excel e Google Sheets.
 - Certificada em Google Analytics, com experiência em configuração de eventos, relatórios personalizados e dashboards, além de conhecimento em Google Tag Manager (GTM).
-- Especializada em configurações de tags para o GA e Google Ads, incluindo GA4, tanto por código quanto por GTM.
+- Especializada em configurações de tags para o GA e Google Ads por código e por GTM.
 - Experiência em configuração de Merchant Center para campanhas de Shopping.
 - Atualmente, estou aprofundando meus conhecimentos em SQL e iniciando minha jornada de aprendizado em Python.
 - Trabalhando para tornar meus dashboards no Power BI mais dinâmicos e amigáveis.
