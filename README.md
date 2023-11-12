@@ -24,9 +24,7 @@ Atualmente, sou apaixonada por análise de dados e pela criação de relatórios
 ## Outros Conhecimentos 💡
 - Conhecimento em JavaScript, especialmente em implementações de tags de GA e Ads por código ou GTM.
 
-  <br>
 **Linguagem e Ferramentas:** 
-
 
 ![Ads](https://img.shields.io/badge/Google%20Ads-white?style=for-the-badge&logo=googleads&logoColor=%234285F4)&nbsp;&nbsp;
 ![GA](https://img.shields.io/badge/Google%20Analytics-white?style=for-the-badge&logo=googleanalytics&logoColor=%23E37400)&nbsp;&nbsp;
