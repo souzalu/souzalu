@@ -42,5 +42,6 @@ Atualmente, sou apaixonada por análise de dados e pela criação de relatórios
 
 ## Como Entrar em Contato 📫
 - Vamos conectar? [LinkedIn](https://www.linkedin.com/in/luciane-souza-24abbb14b/) é o lugar certo para discussões profissionais.
+- [Portfólio](https://sites.google.com/view/lucianesouza/p%C3%A1gina-inicial)
 
 Estou animada para contribuir com meu conjunto de habilidades e aprender ainda mais no processo! Vamos criar algo incrível juntos! 🌟
